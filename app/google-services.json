@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3209168081",
+    "firebase_url": "https://fir-remoteconfigtest-30a8b.firebaseio.com",
+    "project_id": "fir-remoteconfigtest-30a8b",
+    "storage_bucket": "fir-remoteconfigtest-30a8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3209168081:android:5dd465956dde4bb4",
+        "android_client_info": {
+          "package_name": "com.cerebrum.firebaseremoteconfigtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3209168081-888ipn7lob24kgvj3t055t2epplc7sbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cerebrum.firebaseremoteconfigtest",
+            "certificate_hash": "6a6d8864228684e9ed618fc61799e334ff5ba5c3"
+          }
+        },
+        {
+          "client_id": "3209168081-9eu5pmbnembbs1espig0t4abijif56fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo1a7Ak6fFnly5BDJD6_UTouoFynVT1bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3209168081-9eu5pmbnembbs1espig0t4abijif56fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
